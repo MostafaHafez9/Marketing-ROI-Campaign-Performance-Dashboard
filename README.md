@@ -4,7 +4,7 @@ This project analyzes marketing campaign performance and evaluates the Return on
 The dashboard focuses on understanding which marketing channels drive the most profit, identifying underperforming campaigns, and uncovering opportunities to optimize marketing spend.
 The analysis combines financial performance metrics with marketing funnel metrics to provide a complete view of campaign efficiency.
 ________________________________________
-##Objectives
+## Objectives
 •	Evaluate the ROI of marketing campaigns
 •	Identify top-performing marketing channels
 •	Analyze customer engagement and conversion performance
