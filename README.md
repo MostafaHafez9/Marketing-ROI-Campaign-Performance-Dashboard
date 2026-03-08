@@ -78,33 +78,33 @@ ________________________________________
 1. ROI & Campaign Performance
 This page focuses on financial performance and ROI analysis, including:
 
-•	ROI by marketing channel
+  •	ROI by marketing channel
 
-•	Revenue vs Cost comparison
+  •	Revenue vs Cost comparison
 
-•	Profit contribution by channel
+  •	Profit contribution by channel
 
-•	ROI trends over time
+  •	ROI trends over time
 
-•	Campaign performance analysis
+  •	Campaign performance analysis
 
-•	ROI by country
+  •	ROI by country
 ________________________________________
 2. Funnel & Efficiency Analysis
-3. 
-This section analyzes marketing funnel performance, including:
 
-•	CTR by channel
+ This section analyzes marketing funnel performance, including:
 
-•	Conversion rate by channel
+  •	CTR by channel
 
-•	Impressions and clicks comparison
+  •	Conversion rate by channel
 
-•	CTR by campaign
+  •	Impressions and clicks comparison
 
-•	Conversion rate by campaign
+  •	CTR by campaign
 
-•	Impressions by country
+  •	Conversion rate by campaign
+
+  •	Impressions by country
 ________________________________________
 3. Insights & Action Plan
 
@@ -113,41 +113,41 @@ ________________________________________
 ## Key Insights
 Some of the major findings include:
 
-•	Email marketing generated the highest ROI (892%) and over $1.09B in profit.
+  •	Email marketing generated the highest ROI (892%) and over $1.09B in profit.
 
-•	Affiliate marketing showed strong efficiency with 167% ROI.
+  •	Affiliate marketing showed strong efficiency with 167% ROI.
 
-•	Google Ads produced significant revenue but has optimization potential.
+  •	Google Ads produced significant revenue but has optimization potential.
 
-•	LinkedIn Ads showed relatively low engagement and ROI.
+  •	LinkedIn Ads showed relatively low engagement and ROI.
 
-•	Facebook Ads performance was close to break-even.
+  •	Facebook Ads performance was close to break-even.
 
-•	Instagram campaigns resulted in negative ROI, indicating inefficient spend.
+  •	Instagram campaigns resulted in negative ROI, indicating inefficient spend.
 
-•	The UAE market delivered the highest ROI (228%) among all regions.
+  •	The UAE market delivered the highest ROI (228%) among all regions.
 ________________________________________
 ## Files Included
 This repository includes:
 
-•	Raw marketing dataset
+  •	Raw marketing dataset
 
-•	Excel dashboard file
+  •	Excel dashboard file
 
-•	Dashboard screenshots
+  •	Dashboard screenshots
 
-•	Data model and calculated measures
+  •	Data model and calculated measures
 ________________________________________
 
 ## Business Recommendations
-•	Increase investment in Email marketing campaigns
+  •	Increase investment in Email marketing campaigns
 
-•	Expand Affiliate partnerships
+  •	Expand Affiliate partnerships
 
-•	Optimize Google Ads targeting and bidding strategies
+  •	Optimize Google Ads targeting and bidding strategies
 
-•	Review LinkedIn campaign targeting
+  •	Review LinkedIn campaign targeting
 
-•	Improve or pause Instagram campaigns
+  •	Improve or pause Instagram campaigns
 
-•	Increase marketing investment in high-performing markets
+  •	Increase marketing investment in high-performing markets
