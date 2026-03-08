@@ -6,12 +6,16 @@ The analysis combines financial performance metrics with marketing funnel metric
 ________________________________________
 ## Objectives
 •	Evaluate the ROI of marketing campaigns
+
 •	Identify top-performing marketing channels
+
 •	Analyze customer engagement and conversion performance
+
 •	Detect underperforming campaigns
+
 •	Provide data-driven recommendations for marketing strategy
 ________________________________________
-##Tools Used
+## Tools Used
 •	Microsoft Excel
 •	Power Query (Data Cleaning)
 •	Power Pivot (Data Modeling)
@@ -19,7 +23,7 @@ ________________________________________
 •	Pivot Tables
 •	Interactive Excel Dashboard
 ________________________________________
-##Data Preparation
+## Data Preparation
 The dataset was cleaned and transformed using Power Query:
 •	Removed duplicates
 •	Handled missing values
@@ -28,7 +32,7 @@ The dataset was cleaned and transformed using Power Query:
 •	Created calculated columns
 A Calendar Table was created to support time-based analysis.
 ________________________________________
-##Key Metrics
+## Key Metrics
 The dashboard focuses on several marketing performance metrics:
 Financial Metrics
 •	Revenue
@@ -45,7 +49,7 @@ Marketing Funnel Metrics
 •	CTR (Click Through Rate)
 •	Conversion Rate
 ________________________________________
-##Dashboard Structure
+## Dashboard Structure
 1. ROI & Campaign Performance
 This page focuses on financial performance and ROI analysis, including:
 •	ROI by marketing channel
@@ -67,7 +71,7 @@ ________________________________________
 3. Insights & Action Plan
 The final section summarizes the most important business insights and provides strategic recommendations based on the analysis.
 ________________________________________
-##Key Insights
+## Key Insights
 Some of the major findings include:
 •	Email marketing generated the highest ROI (892%) and over $1.09B in profit.
 •	Affiliate marketing showed strong efficiency with 167% ROI.
@@ -77,7 +81,7 @@ Some of the major findings include:
 •	Instagram campaigns resulted in negative ROI, indicating inefficient spend.
 •	The UAE market delivered the highest ROI (228%) among all regions.
 ________________________________________
-##Files Included
+## Files Included
 This repository includes:
 •	Raw marketing dataset
 •	Excel dashboard file
@@ -85,7 +89,7 @@ This repository includes:
 •	Data model and calculated measures
 ________________________________________
 
-##Business Recommendations
+## Business Recommendations
 •	Increase investment in Email marketing campaigns
 •	Expand Affiliate partnerships
 •	Optimize Google Ads targeting and bidding strategies
